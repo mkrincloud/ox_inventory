@@ -1,1 +1,1 @@
-minor changes were using GROK ai for cyan/blue theme server.
+Minor changes were made using GROK AI for a cyan/blue themed server.
